@@ -65,4 +65,4 @@ npm run dev
 | 김현아 | 로그인/회원가입/챗봇/예약신청 | haha020911@naver.com |
 | 이주찬 | BE | a1@gmail.com |
 | 전진영 | FE | a1@gmail.com |
-| 황인태 | FE | a1@gmail.com |
+| 황인태 | 커뮤니티/공지사항/결제 | a1@gmail.com |
